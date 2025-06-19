@@ -39,11 +39,13 @@ A simple **Tic Tac Toe** game built using **Java** and **Android Studio**, allow
 
 ## 📂 Project Structure
 
-com.example.tiktactoe
-├── MainActivity.java # Core game logic and UI handling
-├── res/
-│ └── layout/
-│ └── activity_main.xml # 3x3 button layout
+📦 com.example.tiktactoe
+├── 📄 MainActivity.java         // Contains game logic and button click handling
+
+📁 res
+└── 📁 layout
+    └── 📄 activity_main.xml     // Defines the 3x3 button layout for the game board
+
 
 
 ---
